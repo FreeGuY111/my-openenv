@@ -1,0 +1,23 @@
+[project]
+name = "disaster-openenv"
+version = "0.1.0"
+description = "Flood and Rainfall Data Cleaning OpenEnv Environment"
+authors = [{name = "Mohammed Amaan Ikram"}]
+dependencies = [
+"fastapi",
+"uvicorn",
+"pydantic",
+"pandas",
+"numpy",
+"openenv>=0.2.0",
+]
+
+[project.scripts]
+server = "server.app:main"
+
+[tool.setuptools]
+packages = ["server"]
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
