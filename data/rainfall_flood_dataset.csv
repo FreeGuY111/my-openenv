@@ -1,0 +1,43 @@
+date,state,rainfall_mm,river_level_m,flood_risk
+2023-07-01,Rajasthan,120mm,5.8,High
+2023-07-02,rajasthan,85,6.2,High
+2023-07-03,Rajasthan,,5.5,Medium
+2023-07-04,Uttar Pradesh,110mm,7.1,High
+2023-07-05,UP,95,6.8,High
+2023-07-06,Uttar Pradesh,105,6.9,High
+2023-07-07,Bihar,70,6.0,Medium
+2023-07-08,Bihar,,5.7,Low
+2023-07-09,bihar,55,5.9,Low
+2023-07-10,West Bengal,130mm,7.5,High
+2023-07-11,West Bengal,125,7.3,High
+2023-07-12,West Bengal,,7.0,Medium
+2023-07-13,Odisha,90,6.1,Medium
+2023-07-14,Odisha,88mm,6.0,Medium
+2023-07-15,Odisha,92,6.2,Medium
+2023-07-16,Assam,150mm,8.0,High
+2023-07-17,Assam,145,7.9,High
+2023-07-18,Assam,,7.8,High
+2023-07-19,Kerala,45,4.5,Low
+2023-07-20,Kerala,50mm,4.8,Low
+2023-07-21,Kerala,48,4.6,Low
+2023-07-22,Tamil Nadu,30,3.9,Low
+2023-07-23,Tamil Nadu,35mm,4.0,Low
+2023-07-24,Tamil Nadu,,4.1,Low
+2023-07-25,Maharashtra,75,5.5,Medium
+2023-07-26,Maharashtra,80mm,5.7,Medium
+2023-07-27,Maharashtra,78,5.6,Medium
+2023-07-28,Gujarat,60,5.0,Medium
+2023-07-29,Gujarat,65mm,5.2,Medium
+2023-07-30,Gujarat,62,5.1,Medium
+2023-07-01,Rajasthan,120mm,5.8,High
+2023-07-02,rajasthan,85,6.2,High
+2023-07-10,West Bengal,130mm,7.5,High
+2023-07-11,West Bengal,125,7.3,High
+2023-07-20,Kerala,50mm,4.8,Low
+2023-07-25,Maharashtra,75,5.5,Medium
+2023-07-31,Karnataka,40,4.2,Low
+2023-08-01,Karnataka,45mm,4.4,Low
+2023-08-02,Karnataka,42,4.3,Low
+2023-08-03,Madhya Pradesh,95,6.4,High
+2023-08-04,Madhya Pradesh,100mm,6.5,High
+2023-08-05,Madhya Pradesh,98,6.3,High
