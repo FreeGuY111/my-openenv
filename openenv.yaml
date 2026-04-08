@@ -1,0 +1,32 @@
+name: disaster-flood-risk
+version: 1.0.0
+description: Disaster Data Preparation & Flood Risk Analysis Environment (India)
+authors: [Your Name]
+tags: [data-cleaning, flood-risk, india, imd, cwc]
+
+server:
+  type: fastapi
+  entrypoint: server.main:app
+  port: 7860
+
+environment:
+  python: "3.10"
+  dependencies:
+    - fastapi
+    - uvicorn
+    - pandas
+    - numpy
+    - pydantic
+
+tasks:
+  - name: easy
+    max_steps: 5
+  - name: medium
+    max_steps: 8
+  - name: hard
+    max_steps: 12
+
+metrics:
+  - cleanliness_score
+  - consistency_score
+  - flood_risk_accuracy
